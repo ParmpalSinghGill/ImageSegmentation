@@ -1,0 +1,7 @@
+__MACOSX
+__pycache__
+balloon
+*.zip
+*.jpg
+.idea
+output
